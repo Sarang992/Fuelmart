@@ -1,0 +1,9 @@
+{
+  "appId": "com.fuelmart.customer",
+  "appName": "FuelMart",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}
